@@ -1,0 +1,9 @@
+options space=20
+tabstave
+notation=true
+key=A time=4/4
+
+notes :q =|: (5/2.5/3.7/4) :8 7-5h6/3 ^3^ 5h6-7/5 ^3^
+
+
+options space=25

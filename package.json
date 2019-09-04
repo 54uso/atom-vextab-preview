@@ -1,0 +1,20 @@
+{
+  "name": "atom-vextab-preview",
+  "main": "./lib/atom-custom-preview",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "atom-vextab-preview:toggle"
+  },
+  "repository": "https://github.com/uso/atom-vextab-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.2.0",
+    "fs-plus": "^3.1.1",
+    "vextab": "git+ssh://git@github.com/54uso/vextab.git"
+  }
+}
