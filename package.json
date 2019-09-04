@@ -1,7 +1,7 @@
 {
   "name": "atom-vextab-preview",
   "main": "./lib/atom-custom-preview",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Used to preview staff editing",
   "keywords": [
     "vextab",
