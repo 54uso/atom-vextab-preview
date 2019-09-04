@@ -2,8 +2,11 @@
   "name": "atom-vextab-preview",
   "main": "./lib/atom-custom-preview",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Used to preview staff editing",
+  "keywords": [
+    "vextab",
+    "preview"
+  ],
   "activationCommands": {
     "atom-workspace": "atom-vextab-preview:toggle"
   },
